@@ -1,5 +1,6 @@
 **Sowing Success: How Machine Learning Helps Farmers Select the Best Crops**
 
+***In this project, I created advanced models to predict different 'crop' types using a multi-class classification approach. I also focused on finding the most crucial feature that significantly impacts the models' predictive accuracy.***
 
 Measuring essential soil metrics such as nitrogen, phosphorous, potassium levels, and pH value is an important aspect of assessing soil condition. However, it can be an expensive and time-consuming process, which can cause farmers to prioritize which metrics to measure based on their budget constraints.
 
@@ -19,4 +20,3 @@ A farmer reached out to you as a machine learning expert for assistance in selec
 
 Each row in this dataset represents various measures of the soil in a particular field. Based on these measurements, the crop specified in the "crop" column is the optimal choice for that field.
 
-In this project, i built multi-class classification models to predict the type of "crop" and identify the single most importance feature for predictive performance.
